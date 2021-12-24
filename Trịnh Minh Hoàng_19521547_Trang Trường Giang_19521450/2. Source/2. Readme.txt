@@ -1,0 +1,6 @@
+B1:Tải bản zip và giải nén 
+B2:Sử dụng visual studio code để mở folder 1. Source | \Trịnh Minh Hoàng_19521547_Trang Trường Giang_19521450\2. Source\1. Source Code
+B3:Nếu chưa có Live server thì vào phần 'Extentions' tải về, mở file 'index.html' và nhấp chuột phải chọn 'Open with live server'
+B4:Chọn trình duyệt để chạy Live server 
+B5:Chọn 'SelectGeometry' và chọn những hình bạn muốn hiện lên theo những dạng 
+B6:Để thực hiện Affine để thay đổi những chỉ số của hình thì chọn vào phần 'Affine ( Khối hình ) solid'
